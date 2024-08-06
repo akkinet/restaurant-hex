@@ -28,6 +28,10 @@
     flex: 1;
     margin: 1rem;
     text-align: center;
+
+}
+.footer-logo{
+ width: 70px;
 }
 
 .app__footer-links_logo img:first-child {
