@@ -9,7 +9,7 @@ const Header = () => (
       <SubHeading title='Chase the new flavour' />
       <h1 className='app__header-h1'>The Key To Fine Dining</h1>
       <p className='p__opensans' style={{ margin: '2rem 0' }}>
-        Experience the Flavours Of <b>Gericht</b>, Where Culinary Artistry Meets
+        Experience the Flavours Of <b>Eggdose</b>, Where Culinary Artistry Meets
         Exquisite Ambiance. Indulge In Our Chef's Creations. Crafted From The
         Finest Ingredients, And Enjoy A Memoriable Dining Journey That Delights
         All your Senses.
