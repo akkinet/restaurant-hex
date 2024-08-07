@@ -13,6 +13,9 @@
     justify-content: flex-start;
     align-items: center;
 }
+.app__navbar-logo img {
+    width: 40%;
+}
 
 
 .app__navbar-links {

@@ -25,6 +25,7 @@ import g01 from '../assets/g01.png';
 import g02 from '../assets/g02.png';
 import g03 from '../assets/g03.png';
 import g04 from '../assets/g04.png';
+import eggdose from '../assets/eggdose.png';
 
 export default {
   bg,
@@ -53,5 +54,6 @@ export default {
   g01,
   g02,
   g03,
-  g04
+  g04,
+eggdose
 };
